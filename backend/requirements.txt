@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+boto3
+aiobotocore
+python-magic
+loguru
+python-dotenv
+uvicorn
+boto3
+aiobotocore
